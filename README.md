@@ -8,6 +8,8 @@ The data set has been taken from glassdoor and focuses on income for various job
 
 FILES
 
+Glassdoor Gender Pay Gap.csv - data file downloaded from Kaggle
+
 
 
 Author
